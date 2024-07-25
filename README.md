@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **RobertLikesCoding/RobertLikesCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋
+
+### I'm Robert, a passionate coder and creator!
+
+After diving headfirst into coding for over 4 months at the end of 2023, I solidified my foundation with [Le Wagon's](https://www.lewagon.com/de) intensive 6-month bootcamp. I'm now adept at building and deploying fully functioning web applications and eager to put these skills into practice in a professional work environment.
+
+🔭 The tools I learned to use so far are HTML, CSS, JavaScript, Ruby on Rails, Figma, Git, Github, SQL, Heroku, Bootstrap
+
+🌱 I’m currently learning how to use React and NodeJS.
+
+I'd be excited to join a dynamic team where I can contribute my skills, learn from experienced developers, and grow alongside the team. Let's build something awesome together! Feel free to reach out if you're looking for a passionate and quick learner!
+
+🔗 [Website](https://robertlikescoding.github.io/my_website/) || [LinkedIn](https://www.linkedin.com/in/robertbaufeld/) 
+
+
