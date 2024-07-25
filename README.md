@@ -23,7 +23,7 @@ After diving headfirst into coding for over 4 months at the end of 2023, I solid
 
 🌱 I’m currently learning how to use React and NodeJS.
 
-I'd be excited to join a dynamic team where I can contribute my skills, learn from experienced developers, and grow alongside the team. Let's build something awesome together! Feel free to reach out if you're looking for a passionate and quick learner!
+I'd be excited to join a dynamic team where I can contribute my skills professionally but I'm also very interested in building open-source projects so **definetly reach out if you're looking for a passionate collaborator** 👍
 
 🔗 [Website](https://robertlikescoding.github.io/my_website/) || [LinkedIn](https://www.linkedin.com/in/robertbaufeld/) 
 
