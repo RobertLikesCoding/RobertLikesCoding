@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 After diving headfirst into coding for over 4 months at the end of 2023, I solidified my foundation with [Le Wagon's](https://www.lewagon.com/de) intensive 6-month bootcamp. Meanwhile I dabbled in game development which is something I'd love to explore further on the side but professionally I'm invested in web development ❤️
 
-🔭 The tools I learned to use so far are HTML, CSS, JavaScript, Ruby on Rails, Figma, Git, Github, SQL, Heroku, Bootstrap
+🔭 The tools I learned to use so far are `HTML`, `CSS`, `JavaScript`, `Ruby on Rails`, `Figma`, `Git`, `Github`, `SQL`, `Heroku`, `Bootstrap`
 
-🌱 I’m currently learning how to use React and NodeJS.
+🌱 I’m currently learning how to use React and how to build APIs.
 
 I'd be excited to join a dynamic team where I can contribute my skills professionally but I'm also very interested in building open-source projects so **definetly reach out if you're looking for a passionate collaborator** 👍
 
