@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### I'm Robert, a passionate coder and creator!
 
-I’m a passionate frontend developer who loves the blend of creativity and problem-solving and gets excited by great UI/UX design. Whether building a project from scratch or improving existing applications, I'm happy with my fingers on my keyboard. As a curious person I love learning and aquiring new skills whenever a project requires it. I learned the core programming concepts and best practices during a six-month Full Stack Web Development bootcamp which greatly increased my curiosity to further.
+I’m a passionate fullstack developer who loves the blend of creativity and problem-solving and gets excited by great UI/UX design. Whether building a project from scratch or improving existing applications, I'm happy with my fingers on my keyboard. As a curious person I love learning and aquiring new skills whenever a project requires it. I learned the core programming concepts and best practices during a six-month Full Stack Web Development bootcamp which only increased my curiosity for building and creating web things!
 
-🔭 The tools I love working with are `HTML`, `CSS`, `JavaScript`, `Figma`, `React`, `Ruby on Rails`, `Git`, `Github` and `Bootstrap`
+🔭 The tools I love working with are `HTML`, `CSS`, `JavaScript`, `Figma`, `React`, `Vue`, `Ruby on Rails`, `Docker`, `Git`, `Github` and `Tailwind`
 
-🌱 I’m currently training myself to build confidently with React and become routined in writing tests.
+🌱 I’m currently working as a Junior Fullstack Developer at Horizoom and working on side projects in my free time
 
 I'd be excited to collaborate to a open-source project so **definetly reach out if you're looking for a passionate collaborator** 👍
 
